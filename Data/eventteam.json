@@ -15,38 +15,24 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1652-adrian-monk/"
         },
         {
-            "name": "Khabib",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a0/10881-a074df72266742cfbcfec7a1989d37a740f3222e.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib/"
-        },
-        {
-           "name": "Andrew Tate",
-           "rank": "Mitglied",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/84/6151-84bd18b2ab38ffe02df38dfd3eca7f1a394bab02.webp",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1542-blaubeere/"
-        },
-        {
             "name": "Leo Salzbergwerk",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/21006-23920479375db694229698e58c9a73710879f242.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/21124-23920479375db694229698e58c9a73710879f242.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
         },
         {
             "name": "Dimitri Kosvlovski",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/73/20973-73073e45f515331220049227e5c0b83785a27ec1.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/73/21091-73073e45f515331220049227e5c0b83785a27ec1.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2286-green-muffinn/"
         },
         {
             "name": "Ben Benberger",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/91/21002-91cac71d9af03c58e6ada4cd7fe2be8a35fa8b06.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/91/21120-91cac71d9af03c58e6ada4cd7fe2be8a35fa8b06.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
         },
         {
@@ -83,6 +69,27 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/5c/17988-5ca6dd88cae877a1993773faddce7e1fe5e2c64c.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1922-stegano3/"
+        },
+        {
+            "name": "Olli Mani",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/66/21114-66d4d1b657b170b04712c6ace55698899ec3ae97.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2419-olli-mani/"
+        },
+        {
+            "name": "Vladimir Glied",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/91/17976-91335f99281d0cfec09fa9dd61015b507c4c1c77.gif",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2398-vladimir-glied/"
+        },
+        {
+            "name": "Rick Walsteen",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de"
         }
     ]
 }
